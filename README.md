@@ -5,7 +5,6 @@ Maven Common contains a set of common dependencies that NYU Libraries projects c
 
   - [Google Guice](http://code.google.com/p/google-guice/)
   - [Google Guava](http://code.google.com/p/guava-libraries/)
-  - [JUnit 4.x](http://www.junit.org/)
 
 The project leverages [Apache Maven](http://maven.apache.org/).
 
